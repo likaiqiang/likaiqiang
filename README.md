@@ -1,4 +1,36 @@
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            ████████████░░░░░░░░░░░░░   48.28% 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+
+```
+
+
+
+ Last Updated on 06/01/2022
 <!--END_SECTION:waka-->
 
 <!--
