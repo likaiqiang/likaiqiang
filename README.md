@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C287%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C288%20hrs%2017%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -26,7 +26,7 @@ Sunday                   419 commits         ████░░░░░░░�
 
 ```text
 💻 Operating System: 
-Windows                  18 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -42,7 +42,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2024 22:13:47 UTC
+ Last Updated on 14/06/2024 22:14:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
