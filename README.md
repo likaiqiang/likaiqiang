@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C337%20hrs%2038%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -42,7 +40,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 22:16:39 UTC
+ Last Updated on 08/09/2024 22:17:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
